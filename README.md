@@ -6,3 +6,5 @@ Hướng dẫn sử dụng:
 3. Chọn Tools > Nuget Package Manager > Package Manager Console
 4. Gõ câu lệnh Update-Database để tạo các bảng trong Database
 5. Build và chạy project 
+6. Truy cập https://hostname/Categories/Index để xem danh sách Category và thêm Category
+7. Truy cập https://hostname/Products/index để xem danh sách Product và thêm product
